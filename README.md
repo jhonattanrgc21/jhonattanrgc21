@@ -20,8 +20,8 @@ A lo largo de mi carrera he aprendido a trabajar con las siguientes tecnologias:
 
 
 ## 🔍 Redes sociales
-- LinkedIn - [Jhonattan Garcia] (https://www.linkedin.com/in/jhonattanrgc21/)
-- Twitter - [@jhonattanrgc25] (https://twitter.com/jhonattanrgc25)
-- Facebook - [Jhonattan Garcia] (https://twitter.com/jhonattanrgc25)
-- Telegram - [Jhonattan Garcia] (https://t.me/jhonattanrgc21)
-- Instagram - [jhonattanrgc21] (https://www.instagram.com/jhonattanrgc21/)
+- LinkedIn - [Jhonattan Garcia](https://www.linkedin.com/in/jhonattanrgc21/)
+- Twitter - [@jhonattanrgc25](https://twitter.com/jhonattanrgc25)
+- Facebook - [Jhonattan Garcia](https://twitter.com/jhonattanrgc25)
+- Telegram - [Jhonattan Garcia](https://t.me/jhonattanrgc21)
+- Instagram - [jhonattanrgc21](https://www.instagram.com/jhonattanrgc21/)
