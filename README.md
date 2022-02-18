@@ -11,8 +11,7 @@ Futuro Licenciado en Ciencias de la Computación. Desarrollador web Back-End �
 
 A lo largo de mi carrera he aprendido a trabajar con las siguientes tecnologias:
 
-* 🌐 HTML | CSS
-* 🖇 Odoo ERP
+* 🌐 HTML | CSS | Angular | FastAPI
 * ⚙ Python | JavaScript | C | C++
 * 🛢️ SQL | PostgreSQL | MySQL
 * 💠 Git | GitLab | Github
