@@ -3,8 +3,6 @@
 
 # <img src = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width = "30px"> Hola, soy Jhonattan Garcia
 
-🎓 Lic en Computación - Desarrollador web 💻. 
-
 ### Soy una persona responsable, de confianza, autodidacta, dispuesto a aprender y dar lo mejor de mi.
 
 ## ⚡ Stack de tecnologías
