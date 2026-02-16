@@ -9,7 +9,7 @@
 
 A lo largo de mi carrera he aprendido a trabajar con las siguientes tecnologias:
 
-* 🌐 Angular | FastAPI | Spring Boot | Flutter | Node.js
+* 🌐 Angular | FastAPI | Spring Boot | Flutter | Node.js | Laravel | NestJS
 * ⚙ Python | JavaScript | C | C++ | Java | PHP | HTML | CSS
 * 🛢️ SQL Server | PostgreSQL | MySQL | MongoDB
 * 💠 Git | GitLab | Github
